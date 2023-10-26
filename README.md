@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @gzr529
-- Learning Python and JS
+- Learning Python, JS and C++
