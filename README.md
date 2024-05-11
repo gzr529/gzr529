@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @gzr529
-- Learning Python, JS and C++
+- Hello. Merhaba.
+- First Year learning Java, WebDev and C++
